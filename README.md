@@ -1,5 +1,5 @@
 # poh8
-paiza.jp/poh/hatsukoi 關卡回答紀錄
+https://paiza.jp/poh/hatsukoi/ 關卡回答紀錄
 
 短髮（ショートヘアセッ）：https://github.com/goescat/poh8/blob/master/poh1.cxx
 
