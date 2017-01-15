@@ -11,12 +11,13 @@ paiza.jp/poh/hatsukoi 關卡回答紀錄
 
 低雙馬尾（おさげ）：https://github.com/goescat/poh8/blob/master/poh5.cxx
 
-眼角下垂眼(?)（たれ目）：poh6
+眼角下垂眼(?)（たれ目）：https://github.com/goescat/poh8/blob/master/poh6.cxx
 
-眼角上揚眼(?)（つり目）：poh7
+眼角上揚眼(?)（つり目）：https://github.com/goescat/poh8/blob/master/poh7.cxx
 
-眼鏡（めがね）：poh8
+眼鏡（めがね）：https://github.com/goescat/poh8/blob/master/poh8.cxx
 
-（Cute衣装）：poh9
-（Sexy衣装）：poh10
+萌屬性套裝(?)（Cute衣装）：https://github.com/goescat/poh8/blob/master/poh9.cxx
+
+性感套裝（Sexy衣装）：https://github.com/goescat/poh8/blob/master/poh10.cxx
 
